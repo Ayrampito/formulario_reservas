@@ -1,1 +1,8 @@
 /* Creando nuevos estilos */
+.dt{
+	height: 6rem;
+	font-size: 3rem;
+	color: #33EE44;
+	margin: 2rem;
+	padding: 1rem;
+}
